@@ -8,8 +8,9 @@ header {
   justify-content: center;
   align-items: center;
   padding: 20px;
-  background-color: #1A1A1D;
+  background-color: white;
   color: white;
+  box-shadow: #1A1A1D 5px;
 }
 
 header .logo img {
@@ -30,7 +31,7 @@ header .logo img {
 }
 .navbar a {
   text-decoration: none;
-  color: white;
+  color: #121212;
   font-size: medium;
   font-size: 16px;
   padding: 10px 15px;
